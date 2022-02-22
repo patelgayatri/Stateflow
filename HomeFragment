@@ -1,0 +1,3 @@
+
+val selectedPosition= viewModel.selectedPosition.value
+spinner.setSelection(selectedPosition)
